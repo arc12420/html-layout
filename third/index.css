@@ -1,0 +1,48 @@
+
+
+.Bar1 {
+    height: 90px;
+    width: 800Px;
+    background-color: gainsboro;
+}
+    .Box {
+        height: 70px;
+        width: 70px;
+        background-color: blue;
+        /* margin: 15px; */
+        margin-left: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display:inline-block    
+}
+.Bar2 {
+    height: 250px;
+    width: 800Px;
+}
+    .Text {
+        height: 10px;
+        width: 600Px;
+        text-align: left;
+        padding: 70px;
+        font-size: large;
+}
+.Bar3 {
+    height: 90px;
+    width: 800Px;
+    background-color: blue;
+}
+.Bar4 {
+    height: 90px;
+    width: 800Px;
+    background-color: turquoise;
+}
+.Bar5 {
+    height: 90px;
+    width: 800Px;
+    background-color: yellowgreen;
+}
+.Bar6 {
+    height: 90px;
+    width: 800Px;
+    background-color: yellow;
+}
